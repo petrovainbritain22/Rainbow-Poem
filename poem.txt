@@ -4,4 +4,4 @@ yellow
 green
 blue
 purple
-are the Rainbow colors
+are the Rainbow colours
