@@ -1,0 +1,5 @@
+red
+orange
+yellow
+purple
+are the Rainbow colors
